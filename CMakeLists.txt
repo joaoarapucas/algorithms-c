@@ -3,4 +3,4 @@ project(algorithms C)
 
 
 #algorithms
-add_subdirectory(src/linked-list)
+#add_subdirectory(src/linked-list)
